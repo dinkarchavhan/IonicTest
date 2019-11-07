@@ -1,1 +1,4 @@
-
+1)run the application in mobile or browser.
+2)getting the data from https://rickandmortyapi.com/documentation API which is shared by you.
+3)On page load you will get data and same you can do filter as well on search box.
+4)after scrolling below you will get another more data -using lazy loading.
